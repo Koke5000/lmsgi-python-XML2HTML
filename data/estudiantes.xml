@@ -1,0 +1,4 @@
+<estudiantes>
+    <estudiante id="1" nombre="Ana" />
+    <estudiante id="2" nombre="Juan" />
+</estudiantes>
